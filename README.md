@@ -1,2 +1,3 @@
 # Calculadora
- Trainando calculadora com function e objetos
+ Calculadora foi criada apenas para praticar o conhecimento o conhecimento obtido
+ com Factory Functions
